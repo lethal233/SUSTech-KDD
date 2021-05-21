@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 .idea/
-/*/*.csv
+/*/*/*.csv
 test.py
+/tmp/*
 
