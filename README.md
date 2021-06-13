@@ -21,4 +21,4 @@ KDD course (CS306) in SUSTech
 MIT
 
 ## Copyright
-[@lethal233](https://github.com/lethal233) & SUSTech CS306 course lecturer Xuan Song
+[@lethal233](https://github.com/lethal233) & SUSTech CS306 course lecturer [Xuan Song](https://faculty.sustech.edu.cn/songx/)
