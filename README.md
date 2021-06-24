@@ -18,7 +18,9 @@ KDD course (CS306) in SUSTech
 - Lab14: Using Keras 2 Classification Task
 
 ## License
-MIT
+* Codes are under MIT license
+* Other formats of files are under CC-BY-NC-SA v4.0 LICENSE
+  ![CC-BY-NC-SA v4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 ## Copyright
 [@lethal233](https://github.com/lethal233) & SUSTech CS306 course lecturer [Xuan Song](https://faculty.sustech.edu.cn/songx/)
